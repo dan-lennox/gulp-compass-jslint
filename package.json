@@ -1,0 +1,13 @@
+{
+  "name": "Drupal basic gulp setup.",
+  "version": "1.0.0",
+  "description": "Basic gulp setup for a Drupal theme using SASS and Compass",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-compass": "^2.1.0"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "license": "MIT"
+}
